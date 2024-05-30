@@ -16,5 +16,5 @@ I just completed courses at the Hexlet Programming School with a degree in QA En
 
 *   🌍  I'm based in Nakhabino, Krasnogorsky District, Moscow Region, Russia
 *   ✉️  You can contact me at [linchuki@mail.ru](mailto:linchuki@mail.ru), [tg: @Linchuki](https://t.me/Linchuki)
-  Connect with me:
-  ![linchuki@mail.ru](https://github.com/Linchuki/Linchuki/blob/main/icons8-%D0%BF%D0%BE%D1%87%D1%82%D0%B0-94.png)](mailto:linchuki@mail.ru) [![@Linchuki](https://github.com/Linchuki/Linchuki/blob/main/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-94.png)](https://t.me/Linchuki)
+*   Connect with me:
+  *   [![linchuki@mail.ru](https://github.com/Linchuki/Linchuki/blob/main/icons8-%D0%BF%D0%BE%D1%87%D1%82%D0%B0-94.png)](mailto:linchuki@mail.ru) [![@Linchuki](https://github.com/Linchuki/Linchuki/blob/main/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-94.png)](https://t.me/Linchuki)
