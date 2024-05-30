@@ -15,5 +15,5 @@ I just completed courses at the Hexlet Programming School with a degree in QA En
 - basic knowledge of HTML, CSS, JavaScript
 
 *   🌍  I'm based in Nakhabino, Krasnogorsky District, Moscow Region, Russia
-*   ✉️  You can contact me at [linchuki@mail.ru](mailto:linchuki@mail.ru)
+*   ✉️  You can contact me at [linchuki@mail.ru](mailto:linchuki@mail.ru), [tg: @Linchuki](https://t.me/Linchuki)
 
