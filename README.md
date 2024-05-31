@@ -20,8 +20,10 @@ into practice and thereby help a company create the best software with my hard s
 
 **Education**  
 Hexlet School of Programming. QA Engineer/Testing Engineer (2024)  
-Manager (Economics and Management at trade enterprises), RGTEU Russian State University of Trade and Economics. Diploma with honors (2001 - 2006)  
-Accountant. State educational institution Voronezh Training Center of the State Statistics Committee of Russia. Diploma with honors (2000 - 2001)  
+Manager (Economics and Management at trade enterprises), RGTEU Russian State University of Trade and Economics.  
+Diploma with honors (2001 - 2006)  
+Accountant. State educational institution Voronezh Training Center of the State Statistics Committee of Russia.  
+Diploma with honors (2000 - 2001)  
 
 
 🌍  I'm based in Nakhabino, Krasnogorsky District, Moscow Region, Russia
