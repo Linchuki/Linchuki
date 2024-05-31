@@ -6,8 +6,9 @@ Manual QA Engineer
 
 For almost the last 9 years, I have been working in a sports store chain as an administrator. And when I found out about the profession  
 of a testing engineer, I immediately decided to radically change my life.  
-I just completed courses at the Hexlet Programming School with a degree in QA Engineering. So I have a crazy desire to put all my knowledge  
-into practice and thereby help a company create the best software with my hard skills: 
+I just completed courses at the Hexlet Programming School with a degree in QA Engineering. So I am seeking for a position of  
+a Junior QA Engineer as I have a crazy desire to put all my knowledge into practice and thereby help a company create the best software  
+by using my ***hard skills***: 
 * Test design, testing pyramid
 * Knowledge of the software development process and software lifecycle
 * Testing tools: DevTools, Postman, Swagger, Trello, case.io
