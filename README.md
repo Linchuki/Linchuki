@@ -4,7 +4,7 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 Manual QA Engineer
 ------------------
 
-For almost the last 9 years, I have been working in a sports store chain as an administrator. And when I found out about the profession  
+For almost the last 9 years, I have been working in a sports store chain as an administrator. When I found out about the profession  
 of a testing engineer, I immediately decided to radically change my life.  
 I just completed courses at the Hexlet Programming School with a degree in QA Engineering. So I am seeking for a position of  
 a Junior QA Engineer as I have a crazy desire to put all my knowledge into practice and thereby help a company create the best software  
@@ -31,4 +31,4 @@ Diploma with honors (2000 - 2001)
 
 **Connect with me:**
 
-[![linchukimail@gmail.com](https://github.com/Linchuki/Linchuki/blob/main/icons8-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D1%87%D1%82%D0%B0-96.png)](mailto:linchukimail@gmail.com) [![@Linchuki](https://github.com/Linchuki/Linchuki/blob/main/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-94.png)](https://t.me/Linchuki)
+[![linchuki@mail.ru](https://github.com/Linchuki/Linchuki/blob/main/icons8-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D1%87%D1%82%D0%B0-96.png)](mailto:linchuki@mail.ru) [![@Linchuki](https://github.com/Linchuki/Linchuki/blob/main/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-94.png)](https://t.me/Linchuki)
