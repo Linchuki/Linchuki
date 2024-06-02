@@ -1,10 +1,12 @@
+<img align="right"  width="100%" height="100" src="https://github.com/Linchuki/Linchuki/blob/main/Welcome1.PNG" alt="welcome"/>
+
 Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elena Voynova
 =====================================================================================================================================
 
 Manual QA Engineer
 ------------------
 
-<img align="right"  width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBnZzFkZ2JrNmc1ZHFjY3VteWlsbXVmbW8xdDhvZnU5YWdtY2d5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7MZ0v9KynmiSA/giphy.webp" alt="testing"/>
+<img align="right"  width="300"  src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBnZzFkZ2JrNmc1ZHFjY3VteWlsbXVmbW8xdDhvZnU5YWdtY2d5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7MZ0v9KynmiSA/giphy.webp" alt="testing"/>
 
 For almost the last 9 years, I have been working in a sports store chain as an administrator. When I found out about the profession of a testing engineer, I immediately decided to radically change my life.  
 I just completed courses at the Hexlet Programming School with a degree in QA Engineering. So now **I am looking for an internship/job** for a vacancy **Junior QA Engineer** as I have a crazy desire to put all my knowledge into practice and thereby help a company create the best software by using my ***hard skills***: 
@@ -14,7 +16,7 @@ I just completed courses at the Hexlet Programming School with a degree in QA En
 * Knowledge of operating systems, the ability to use Linux
 * The concept of methodology Agile (Scrum, Kanban)
 * Knowledge of networks, tcp/ip, http
-* basic knowledge of SQL, HTML, CSS, JavaScript
+* Basic knowledge of SQL, HTML, CSS, JavaScript
 
 [Here is my CV]( https://cv.hexlet.io/ru/resumes/3652)
 
