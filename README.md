@@ -31,4 +31,9 @@ Diploma with honors (2000 - 2001)
 
 **Connect with me:**
 
-[![linchuki@mail.ru](https://github.com/Linchuki/Linchuki/blob/main/icons8-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D1%87%D1%82%D0%B0-96.png)](mailto:linchuki@mail.ru) [![@Linchuki](https://github.com/Linchuki/Linchuki/blob/main/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-94.png)](https://t.me/Linchuki)
+<div>
+<a href="https://t.me/Linchuki"><img src="https://github.com/Linchuki/Linchuki/blob/main/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-94.png" alt="telegram" width="40" height="40"/></a>
+<a href="mailto:linchuki@mail.ru"><img src="https://github.com/Linchuki/Linchuki/blob/main/icons8-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D1%87%D1%82%D0%B0-96.png" alt="mail" width="40" height="40"/></a>
+<p> <img src="https://komarev.com/ghpvc/?username=linchuki&color=0e75b6&style=flat-square" alt="elenavoynova" /> </p>
+</div>
+
