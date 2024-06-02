@@ -4,11 +4,10 @@ Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-07859
 Manual QA Engineer
 ------------------
 
-For almost the last 9 years, I have been working in a sports store chain as an administrator. When I found out about the profession  
-of a testing engineer, I immediately decided to radically change my life.  
-I just completed courses at the Hexlet Programming School with a degree in QA Engineering. So I am seeking for a position of  
-a Junior QA Engineer as I have a crazy desire to put all my knowledge into practice and thereby help a company create the best software  
-by using my ***hard skills***: 
+<img align="right"  width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBnZzFkZ2JrNmc1ZHFjY3VteWlsbXVmbW8xdDhvZnU5YWdtY2d5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7MZ0v9KynmiSA/giphy.webp" alt="testing"/>
+
+For almost the last 9 years, I have been working in a sports store chain as an administrator. When I found out about the profession of a testing engineer, I immediately decided to radically change my life.  
+I just completed courses at the Hexlet Programming School with a degree in QA Engineering. So now **I am looking for an internship/job** for a vacancy **Junior QA Engineer** as I have a crazy desire to put all my knowledge into practice and thereby help a company create the best software by using my ***hard skills***: 
 * Test design, testing pyramid
 * Knowledge of the software development process and software lifecycle
 * Testing tools: DevTools, Postman, Swagger, Trello, case.io
