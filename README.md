@@ -30,7 +30,7 @@ Diploma with honors (2000 - 2001)
 
 🌍  I'm based in Nakhabino, Krasnogorsky District, Moscow Region, Russia
 
-**Connect with me:**
+### ☎️ Contacts:
 
 <div>
 <a href="https://t.me/Linchuki"><img src="https://github.com/Linchuki/Linchuki/blob/main/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-94.png" alt="telegram" width="40" height="40"/></a>
