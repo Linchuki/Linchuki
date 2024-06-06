@@ -23,7 +23,7 @@ I just completed courses at the Hexlet Programming School with a degree in QA En
 **Education**  
 Hexlet School of Programming. QA Engineer/Testing Engineer (2024)  
 Manager (Economics and Management at trade enterprises), RGTEU Russian State University of Trade and Economics.  
-Diploma with honors (2001 - 2006)  
+Diploma with honors (2000 - 2005)  
 Accountant. State educational institution Voronezh Training Center of the State Statistics Committee of Russia.  
 Diploma with honors (2000 - 2001)  
 
