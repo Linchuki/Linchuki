@@ -20,7 +20,7 @@ I just completed courses at the Hexlet Programming School with a degree in QA En
 * Knowledge of networks, tcp/ip, http
 * Basic knowledge of SQL, HTML, CSS, JavaScript
 
-[Here is my CV]( https://cv.hexlet.io/ru/resumes/3652)
+My CV: [Hexlet]( https://cv.hexlet.io/ru/resumes/3652)    [Habr](https://career.habr.com/linchuki)
 
 **Education**  
 Hexlet School of Programming. QA Engineer/Testing Engineer (2024)  
