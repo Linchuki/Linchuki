@@ -20,8 +20,6 @@ I just completed courses at the Hexlet Programming School with a degree in QA En
 * Knowledge of networks, tcp/ip, http
 * Basic knowledge of SQL, HTML, CSS, JavaScript
 
-My CV: [Hexlet]( https://cv.hexlet.io/ru/resumes/3652)    [Habr](https://career.habr.com/linchuki)
-
 **Education**  
 Hexlet School of Programming. QA Engineer/Testing Engineer (2024)  
 Manager (Economics and Management at trade enterprises), RGTEU Russian State University of Trade and Economics.  
@@ -40,5 +38,7 @@ Diploma with honors (2000 - 2001)
 <p> <img src="https://komarev.com/ghpvc/?username=linchuki&color=0e75b6&style=flat-square" alt="elenavoynova" /> </p>
 </div>
 
-### Portfolio:
-My contribution in open-source project [Hexlet-friends](https://github.com/Linchuki/Linchuki/tree/main/testing_hexlet_friends)
+### 📝 My CV: [Hexlet]( https://cv.hexlet.io/ru/resumes/3652)    [Habr](https://career.habr.com/linchuki)
+
+### 💼 My portfolio:
+Open-source project [Hexlet-friends](https://github.com/Linchuki/Linchuki/tree/main/testing_hexlet_friends)
