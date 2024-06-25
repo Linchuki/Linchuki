@@ -41,4 +41,4 @@ Diploma with honors (2000 - 2001)
 </div>
 
 ### My portfolio:
-Open-source project [Hexlet-friends](https://github.com/Linchuki/Linchuki/tree/main/testing_hexlet_friends)
+My contribution in open-source project [Hexlet-friends](https://github.com/Linchuki/Linchuki/tree/main/testing_hexlet_friends)
