@@ -20,7 +20,7 @@ I just completed courses at the Hexlet Programming School with a degree in QA En
 * Knowledge of networks, tcp/ip, http
 * Basic knowledge of SQL, HTML, CSS, JavaScript
 
-**Education**  
+### 👨‍🎓 Education:  
 Hexlet School of Programming. QA Engineer/Testing Engineer (2024)  
 Manager (Economics and Management at trade enterprises), RGTEU Russian State University of Trade and Economics.  
 Diploma with honors (2000 - 2005)  
