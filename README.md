@@ -40,5 +40,5 @@ Diploma with honors (2000 - 2001)
 <p> <img src="https://komarev.com/ghpvc/?username=linchuki&color=0e75b6&style=flat-square" alt="elenavoynova" /> </p>
 </div>
 
-### My portfolio:
+### Portfolio:
 My contribution in open-source project [Hexlet-friends](https://github.com/Linchuki/Linchuki/tree/main/testing_hexlet_friends)
