@@ -41,4 +41,7 @@ Diploma with honors (2000 - 2001)
 ### 📝 My CV: [Hexlet]( https://cv.hexlet.io/ru/resumes/3652)    [Habr](https://career.habr.com/linchuki)
 
 ### 💼 My portfolio:
-Open-source project [Hexlet-friends](https://github.com/Linchuki/Linchuki/tree/main/testing_hexlet_friends)
+Open-source project [Hexlet-friends](https://github.com/Linchuki/Linchuki/tree/main/testing_hexlet_friends)  
+Educational project [Codebattle - testing in production](https://github.com/Linchuki/Codebattle)  
+Educational project [Testing-an-online-store](https://github.com/Linchuki/Testing-an-online-store)  
+
