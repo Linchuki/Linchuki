@@ -35,7 +35,6 @@ Diploma with honors (2000 - 2001)
 <div>
 <a href="https://t.me/Linchuki"><img src="https://github.com/Linchuki/Linchuki/blob/main/icons8-%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC-94.png" alt="telegram" width="40" height="40"/></a>
 <a href="mailto:linchuki@mail.ru"><img src="https://github.com/Linchuki/Linchuki/blob/main/icons8-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D1%87%D1%82%D0%B0-96.png" alt="mail" width="40" height="40"/></a>
-<p> <img src="https://komarev.com/ghpvc/?username=linchuki&color=0e75b6&style=flat-square" alt="elenavoynova" /> </p>
 </div>
 
 ### 📝 My CV: [Hexlet]( https://cv.hexlet.io/ru/resumes/3652)    [Habr](https://career.habr.com/linchuki)
@@ -45,3 +44,6 @@ Open-source project [Hexlet-friends](https://github.com/Linchuki/Linchuki/tree/m
 Educational project [Codebattle - testing in production](https://github.com/Linchuki/Codebattle)  
 Educational project [Testing-an-online-store](https://github.com/Linchuki/Testing-an-online-store)  
 
+<div>
+  <p> <img src="https://komarev.com/ghpvc/?username=linchuki&color=0e75b6&style=flat-square" alt="elenavoynova" /> </p>
+</div>
