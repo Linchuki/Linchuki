@@ -18,7 +18,7 @@
    Видео bugreport-1: https://github.com/Linchuki/Linchuki/blob/main/test_task/Bugreport-1%20(online-video-cutter.com).mp4
 
 - bugreport 2: |
-    При попытке переместить документ в папку, не выбирая в какую именно, появляется сообщение "File sucsessfully moved", хотя файл не перемещен.
+    При попытке переместить документа в папку, не выбирая в какую именно, появляется сообщение "File sucsessfully moved", хотя файл не перемещен.
   summary: |
     Если при перемещении документ в папку не указать в какую именно, появляется сообщение "File sucsessfully moved", хотя файл не перемещен.
       environment: |
@@ -29,8 +29,7 @@
     2. Авторизоваться через Google-аккакунт
     3. У любого документа нажать кнопку "Options"
     4. Выбрать "Move to"
-    5. Нажать на любую папку из списка.
-    6. Нажать кнопку "Move to folder"
+    5. Нажать кнопку "Move to folder"
   expected-result: |
     Появилось сообщение о том, что не выбрана папка, в которую нужно переместить документ.
   actual-result: |
@@ -52,7 +51,7 @@
     4. Выбрать "Move to"
     5. Нажать на любую папку из списка.
     6. Нажать кнопку "Move to folder"
-    7. Нажать Documents слева над таблицей
+    7. Нажать "Documents" слева над таблицей
   expected-result: |
     Появилось сообщение "File sucsessfully moved". Иконка пустой папки изменилась на иконку полной папки.
   actual-result: |
@@ -60,3 +59,21 @@
     Видео bugreport-3: https://github.com/Linchuki/Linchuki/blob/main/test_task/bugreport-3%20(online-video-cutter.com).mp4
     Фото: https://github.com/Linchuki/Linchuki/blob/main/test_task/Folder's%20icon.PNG
     
+- bugreport 4: |
+    В разделе /documents галочка при выборе документа не исчезает после перехода в другой документ и возвращения 
+  summary: |
+    Если выбрать один или несколько документов (поставить галочки около них), потом открыть любой документ и вернуться обртано, с выбранных документов галочки не исчезают.
+  environment: |
+    Google Chrome Версия 120.0.6099.225 (Официальная сборка), (64 бит)
+    ОС Mindows 10 Корпоративная
+  steps-to-reproduce: |
+    1. Перейти по ссылке https://staging.d2twwklgqmrfet.amplifyapp.com/documents
+    2. Авторизоваться через Google-аккакунт
+    3. Поставить галочку у любого документа или папки 
+    4. Открыть любой документ или папку
+    5. Вернуться обратно из документа, нажав "Documents" слева над таблицей
+  expected-result: |
+    Выбранных документов нет (не стоит галочка)
+  actual-result: |
+    Документ остался выбранным (около него стоит галочка).
+    Фото: https://github.com/Linchuki/Linchuki/blob/main/test_task/Choosing%20a%20document.PNG
